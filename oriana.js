@@ -1,1 +1,1 @@
-este es un archivo js
+let animal
